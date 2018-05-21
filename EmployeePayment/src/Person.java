@@ -10,7 +10,7 @@ public class Person {
 	public Person() {
 		this.firstName ="Mohan";
 		this.lastName = "Ramachandran";
-		this.hourlyRate = 100;
+		this.hourlyRate = 1000;
 	}
 	/**
 	 * @param firstName
